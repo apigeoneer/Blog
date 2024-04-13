@@ -1,5 +1,5 @@
 {
-  "name": "starter",
+  "name": "find-best-courses-blog",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -11,8 +11,17 @@
   "dependencies": {
     "eslint": "8.48.0",
     "eslint-config-next": "13.4.19",
-    "next": "13.4.19",
+    "next": "^13.5.6",
     "react": "18.2.0",
     "react-dom": "18.2.0"
-  }
+  },
+  "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+  "main": "next.config.js",
+  "devDependencies": {},
+  "keywords": [
+    "blog",
+    "courses"
+  ],
+  "author": "chitranshi",
+  "license": "ISC"
 }
